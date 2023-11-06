@@ -10,3 +10,10 @@
 
 - [1-4 Spring Boot Actuator Security Demo Project :lock:](https://github.com/erenuygur/spring-boot-3-projects/tree/main/01-spring-boot-overview/04-actuator-security-demo)
 
+- [1-4 Spring Boot Command Line Demo Project :computer:](https://github.com/erenuygur/spring-boot-3-projects/tree/main/01-spring-boot-overview/05-command-line-demo)
+
+- [1-4 Spring Boot Properties Demo Project :page_with_curl:](https://github.com/erenuygur/spring-boot-3-projects/tree/main/01-spring-boot-overview/06-properties-demo)
+
+## 2- Spring Boot Core Projects
+
+- [2-1 Spring Boot Contructor Injection Project :office:](https://github.com/erenuygur/spring-boot-3-projects/tree/main/02-spring-boot-spring-core/01-constructor-injetction)
