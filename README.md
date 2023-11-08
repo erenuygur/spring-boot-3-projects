@@ -24,3 +24,7 @@
 - [2-4 Spring Boot Qualifiers :trophy:](https://github.com/erenuygur/spring-boot-3-projects/tree/main/02-spring-boot-spring-core/04-qualifiers)
 
 - [2-5 Spring Boot Primary :sparkler:](https://github.com/erenuygur/spring-boot-3-projects/tree/main/02-spring-boot-spring-core/05-primary)
+
+- [2-6 Spring Boot Lazy Initialization :dizzy_face:](https://github.com/erenuygur/spring-boot-3-projects/tree/main/02-spring-boot-spring-core/06-lazy-initialization)
+
+- [2-7 Spring Boot Bean Scopes :new:](https://github.com/erenuygur/spring-boot-3-projects/tree/main/02-spring-boot-spring-core/07-bean-scopes)
